@@ -16,7 +16,16 @@
     <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/cat_computer.png" alt="Cat" align="center">
     C | C++ | Java | Python | (PL)SQL | NoSQL | MATLAB
 </div>
+<br>
+<img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/pencil.png" alt="Pencil" align="center">
+<br>
 
+<div align="center">
+    Thank you for visiting my profile!
+    <br>
+    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/bookmark_me.gif" alt="BookmarkMePls" align="center">
+</div>
+<br>
 <div align="center">
     <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/ie.gif" alt="IE" align="center">
     <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/netscape.gif" alt="Netscape" align="center">
