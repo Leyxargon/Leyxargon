@@ -1,12 +1,8 @@
-<div align="left">
-<img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/seal.gif" alt="Seal" align="center">
-</div>
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/welcome.png" alt="Welcome" align="center">
-</div>
+<img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/seal.gif" alt="Seal" align="center">
 
-<div align="right">
+<img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/welcome.png" alt="Welcome" align="center">
+
 <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/dude.gif" alt="Dude" align="center">
 </div>
 
