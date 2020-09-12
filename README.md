@@ -9,7 +9,9 @@
     I'm Leyxargon and I'm a Computer Science student.
 </div>
 <br>
-<img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/pencil.png" alt="Pencil" align="center">
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/pencil.png" alt="Pencil" align="center">
+</div>
 <br>
 
 <div align="center">
@@ -17,7 +19,9 @@
     C | C++ | Java | Python | (PL)SQL | NoSQL | MATLAB
 </div>
 <br>
-<img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/pencil.png" alt="Pencil" align="center">
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/pencil.png" alt="Pencil" align="center">
+</div>
 <br>
 
 <div align="center">
