@@ -1,13 +1,26 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/seal.gif" alt="Seal" align="center">
+    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/seal.gif" alt="Seal" align="center">
+    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/welcome.png" alt="Welcome" align="center">
+    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/dude.gif" alt="Dude" align="center">
+</div>
+<br>
+<br>
+<div align="center">
+    I'm Leyxargon and I'm a Computer Science student.
+</div>
+<br>
+<img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/pencil.png" alt="Pencil" align="center">
+<br>
 
-<img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/welcome.png" alt="Welcome" align="center">
-
-<img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/dude.gif" alt="Dude" align="center">
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/cat_computer.png" alt="Cat" align="center">
+    C | C++ | Java | Python | (PL)SQL | NoSQL | MATLAB
 </div>
 
-
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/ie.gif" alt="IE" align="center">
+    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/netscape.gif" alt="Netscape" align="center">
+</div>
 <!--
 **Leyxargon/Leyxargon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
