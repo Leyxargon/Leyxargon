@@ -16,7 +16,7 @@
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/cat_computer.png" alt="Cat" align="center">
-    C | C++ | Java | Python | (PL)SQL | NoSQL | MATLAB
+    C | C++ | Java | Python | (PL)SQL | NoSQL | MATLAB | CUDA | OpenACC
 </div>
 <br>
 <div align="center">
