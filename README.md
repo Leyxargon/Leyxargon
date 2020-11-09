@@ -6,7 +6,7 @@
 <br>
 <br>
 <div align="center">
-    I'm Leyxargon and I'm a Computer Science student.
+    I'm Leyxargon and I'm a Computer Scientist.
 </div>
 <br>
 <div align="center">
