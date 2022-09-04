@@ -1,56 +1,45 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/seal.gif" alt="Seal" align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/welcome.png" alt="Welcome" align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/dude.gif" alt="Dude" align="center">
+    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/Leyxargon_logo.png" alt="Welcome" align="center">
 </div>
 <br>
-<br>
-<div align="center">
-    I'm Leyxargon and I'm a Computer Scientist.
-</div>
-<br>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/pencil.png" alt="Pencil" align="center">
-</div>
 <br>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/cat_computer.png" alt="Cat" align="center">
-    C | C++ | Java | Python | (PL)SQL | NoSQL | MATLAB | CUDA | OpenACC
-</div>
+```bash
+whoami
+$ Leyxargon
+```
 <br>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/pencil.png" alt="Pencil" align="center">
-</div>
+    I'm a Computer Scientist with  a passion for cybersecurity.
+<br>
 <br>
 
-<div align="center">
-    Thank you for visiting my profile!
-    <br>
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/bookmark_me.gif" alt="BookmarkMePls" align="center">
-</div>
-<br>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/ie.gif" alt="IE" align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/netscape.gif" alt="Netscape" align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/flash.gif" alt="Flash" align="center">
-</div>
-<br>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/frontpage.gif" alt="Frontpage" align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/backoffice.gif" alt="Backoffice" align="center">
-</div>
-<!--
-**Leyxargon/Leyxargon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
+ - 💼 Cybersecurity Analyst
+ - 👨‍💻 I occasionally write code to solve little practical problems, or just for fun
+ - 🇮🇹 Italian
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="25"/><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/235_Nvidia_logo-512.png" alt="CUDA" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="25"/>
+
+<br>
+
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Leyxargon&hide=javascript&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Leyxargon's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Leyxargon&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Leyxargon's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Leyxargon&hide=javascript&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=github_dark#gh-dark-mode-only" alt="Leyxargon's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Leyxargon&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=github_dark#gh-dark-mode-only" alt="Leyxargon's Github stats" />
+</a>
+</div>
