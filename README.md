@@ -5,8 +5,8 @@
 <br>
 
 ```bash
-whoami
-$ Leyxargon
+$ whoami
+Leyxargon
 ```
 <br>
     I'm a Computer Scientist with  a passion for cybersecurity.
